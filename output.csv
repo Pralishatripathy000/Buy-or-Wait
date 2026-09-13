@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,Pay IDR 15656000 today while maintaining the minimum balance of IDR 24768300.
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,Pay ZAR 6670 today while maintaining the minimum balance of ZAR 20500.
+request_28,427.92,affordable_later,wait,none,2024-07-15,none,"Wait until 2024-07-15, when the full EUR 1302.40 is forecast safe without reducing protected spending."
+request_29,20119.09,not_affordable,not_recommended,none,,none,The full ZAR 51524 cannot be completed safely within the deadline while maintaining ZAR 28300.
+request_30,775.20,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,2026-04-06,none,Use 3 installments totaling USD 806.22; the 90-day forecast maintains the minimum balance.
+request_31,4493041.17,affordable_later,wait,none,2024-10-15,none,"Wait until 2024-10-15, when the full IDR 18164000 is forecast safe without reducing protected spending."
+request_32,0,not_affordable,not_recommended,none,,none,The full ZAR 40018 cannot be completed safely within the deadline while maintaining ZAR 35700.
+request_33,42738.49,affordable_later,wait,none,2026-02-15,none,"Wait until 2026-02-15, when the full INR 118000 is forecast safe without reducing protected spending."
+request_34,129400,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,Pay INR 129400 today while maintaining the minimum balance of INR 138500.
+request_35,53148.39,affordable_later,wait,none,2026-01-15,none,"Wait until 2026-01-15, when the full INR 212000 is forecast safe without reducing protected spending."
+request_36,921.75,affordable_later,wait,none,2026-09-15,none,"Wait until 2026-09-15, when the full USD 3954 is forecast safe without reducing protected spending."
+request_37,6820153.10,affordable_later,wait,none,2024-04-15,none,"Wait until 2024-04-15, when the full IDR 14649000 is forecast safe without reducing protected spending."
+request_38,221.30,affordable_later,wait,none,2025-09-15,none,"Wait until 2025-09-15, when the full EUR 971.30 is forecast safe without reducing protected spending."
+request_39,76684.52,affordable_later,wait,none,2026-05-15,none,"Wait until 2026-05-15, when the full INR 208600 is forecast safe without reducing protected spending."
+request_40,0,not_affordable,not_recommended,none,,none,The full EUR 1290.30 cannot be completed safely within the deadline while maintaining EUR 1500.
+request_41,12048079.59,affordable_later,wait,none,2025-12-15,none,"Wait until 2025-12-15, when the full IDR 38760000 is forecast safe without reducing protected spending."
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,Pay INR 52100 today while maintaining the minimum balance of INR 113100.
+request_43,9868266.98,affordable_later,wait,none,2024-10-15,none,"Wait until 2024-10-15, when the full IDR 43339000 is forecast safe without reducing protected spending."
+request_44,0,not_affordable,not_recommended,none,,none,The full INR 95800 cannot be completed safely within the deadline while maintaining INR 82900.
+request_45,4798684.34,affordable_later,wait,none,2026-09-15,none,"Wait until 2026-09-15, when the full IDR 21983000 is forecast safe without reducing protected spending."
+request_46,45932.38,affordable_with_plan,partial_payment,2024-12-03:45932.38|2024-12-15:3517.62,2024-12-15,none,Pay INR 45932.38 today and the remaining INR 3517.62 on 2024-12-15.
+request_47,22554139.53,not_affordable,not_recommended,none,,none,The full IDR 38114000 cannot be completed safely within the deadline while maintaining IDR 30049000.
+request_48,45700,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,Pay INR 45700 today while maintaining the minimum balance of INR 71300.
+request_49,15485720.36,affordable_with_plan,installments,2024-03-18:11902106.67|2024-04-18:11902106.67|2024-05-19:11902106.67,2024-04-15,none,Use 3 installments totaling IDR 35706320.01; the 90-day forecast maintains the minimum balance.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,Pay INR 43900 today while maintaining the minimum balance of INR 99700.
+request_51,2191000,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,Pay IDR 2191000 today while maintaining the minimum balance of IDR 7811000.
+request_52,21927.86,affordable_later,wait,none,2024-06-15,none,"Wait until 2024-06-15, when the full INR 28870 is forecast safe without reducing protected spending."
+request_53,623.55,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2025-12-15,none,Use 3 installments totaling USD 1767.18; the 90-day forecast maintains the minimum balance.
+request_54,6382.81,not_affordable,not_recommended,none,,none,The full ZAR 121528 cannot be completed safely within the deadline while maintaining ZAR 37000.
+request_55,127344.01,affordable_with_plan,installments,2026-06-11:75781.33|2026-07-12:75781.33|2026-08-12:75781.33,2026-07-15,none,Use 3 installments totaling INR 227343.99; the 90-day forecast maintains the minimum balance.
+request_56,700.83,affordable_with_plan,partial_payment,2025-02-03:700.83|2025-02-15:180.73,2025-02-15,none,Pay USD 700.83 today and the remaining USD 180.73 on 2025-02-15.
+request_57,15201.76,affordable_later,wait,none,2026-05-15,none,"Wait until 2026-05-15, when the full ZAR 61446 is forecast safe without reducing protected spending."
+request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,Pay IDR 16226000 today while maintaining the minimum balance of IDR 14433900.
+request_59,140600,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,Use 3 installments totaling INR 146223.99; the 90-day forecast maintains the minimum balance.
+request_60,169.65,affordable_later,wait,none,2026-01-15,none,"Wait until 2026-01-15, when the full USD 199.89 is forecast safe without reducing protected spending."
+request_61,29062,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,Use 3 installments totaling ZAR 30224.49; the 90-day forecast maintains the minimum balance.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Pay USD 404.23 today while maintaining the minimum balance of USD 1300.
+request_63,60717.51,not_affordable,not_recommended,none,,none,The full INR 343900 cannot be completed safely within the deadline while maintaining INR 153500.
+request_64,52000.51,affordable_with_plan,installments,2024-06-11:22082.67|2024-07-12:22082.67|2024-08-12:22082.67,2024-06-15,none,Use 3 installments totaling INR 66248.01; the 90-day forecast maintains the minimum balance.
+request_65,7179.80,not_affordable,not_recommended,none,,none,The full ZAR 54340 cannot be completed safely within the deadline while maintaining ZAR 15500.
+request_66,22200,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,Pay INR 22200 today while maintaining the minimum balance of INR 80700.
+request_67,357.22,affordable_later,wait,none,2024-11-15,none,"Wait until 2024-11-15, when the full USD 2094 is forecast safe without reducing protected spending."
+request_68,1629.68,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,2025-02-23,none,Use 3 installments totaling USD 2175.27; the 90-day forecast maintains the minimum balance.
+request_69,529.10,affordable_now,full_payment,2026-01-04:529.10,2026-01-04,none,Pay EUR 529.10 today while maintaining the minimum balance of EUR 700.
+request_70,60305.48,affordable_later,wait,none,2025-01-15,none,"Wait until 2025-01-15, when the full INR 243900 is forecast safe without reducing protected spending."
+request_71,2020171.67,not_affordable,not_recommended,none,,none,The full IDR 21451000 cannot be completed safely within the deadline while maintaining IDR 8884800.
+request_72,0,not_affordable,not_recommended,none,,none,The full ZAR 11330 cannot be completed safely within the deadline while maintaining ZAR 12200.
+request_73,71400,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,Pay INR 71400 today while maintaining the minimum balance of INR 103200.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,Pay ZAR 5010 today while maintaining the minimum balance of ZAR 21900.
+request_75,28270,affordable_with_plan,installments,2026-04-09:9800.27|2026-05-09:9800.27|2026-06-08:9800.27,2026-04-06,none,Use 3 installments totaling ZAR 29400.81; the 90-day forecast maintains the minimum balance.
+request_76,1098.65,not_affordable,not_recommended,none,,none,The full USD 4455.60 cannot be completed safely within the deadline while maintaining USD 1800.
+request_77,60700,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,Pay INR 60700 today while maintaining the minimum balance of INR 82200.
+request_78,50200,affordable_now,full_payment,2025-10-02:50200,2025-10-02,none,Pay INR 50200 today while maintaining the minimum balance of INR 55200.
+request_79,433.75,not_affordable,not_recommended,none,2024-11-15,none,The full EUR 2151.60 cannot be completed safely within the deadline while maintaining EUR 1000.
+request_80,139764.74,not_affordable,not_recommended,none,,none,The full INR 217500 cannot be completed safely within the deadline while maintaining INR 121300.
+request_81,2076,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,Pay USD 2076 today while maintaining the minimum balance of USD 1600.
+request_82,547.20,affordable_later,wait,none,2025-01-15,none,"Wait until 2025-01-15, when the full USD 1405.20 is forecast safe without reducing protected spending."
+request_83,0,not_affordable,not_recommended,none,,none,The full INR 156200 cannot be completed safely within the deadline while maintaining INR 37800.
+request_84,30263.31,affordable_later,wait,none,2026-05-15,none,"Wait until 2026-05-15, when the full INR 95400 is forecast safe without reducing protected spending."
+request_85,1261850.50,not_affordable,not_recommended,none,,none,The full IDR 19304000 cannot be completed safely within the deadline while maintaining IDR 6396300.
+request_86,46300,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,Pay INR 46300 today while maintaining the minimum balance of INR 84900.
+request_87,0,not_affordable,not_recommended,none,,none,The full INR 487900 cannot be completed safely within the deadline while maintaining INR 185900.
+request_88,11959.79,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-06-15,none,Use 3 installments totaling ZAR 27135.69; the 90-day forecast maintains the minimum balance.
+request_89,9644251.87,affordable_with_plan,installments,2025-11-18:4768746.67|2025-12-16:4768746.67|2026-01-13:4768746.67,2025-11-15,none,Use 3 installments totaling IDR 14306240.01; the 90-day forecast maintains the minimum balance.
+request_90,2560,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,Pay ZAR 2560 today while maintaining the minimum balance of ZAR 7600.
+request_91,728.87,affordable_later,wait,none,2024-10-15,none,"Wait until 2024-10-15, when the full EUR 1927.20 is forecast safe without reducing protected spending."
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,Pay ZAR 34034 today while maintaining the minimum balance of ZAR 28100.
+request_93,1729.20,affordable_now,full_payment,2026-04-07:1729.20,2026-04-07,none,Pay USD 1729.20 today while maintaining the minimum balance of USD 1900.
+request_94,529.01,not_affordable,not_recommended,none,,none,The full EUR 572 cannot be completed safely within the deadline while maintaining EUR 600.
+request_95,30975.42,not_affordable,not_recommended,none,,none,The full INR 553000 cannot be completed safely within the deadline while maintaining INR 145500.
+request_96,42021.72,not_affordable,not_recommended,none,,none,The full INR 90200 cannot be completed safely within the deadline while maintaining INR 56500.
+request_97,2929.44,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-04-15,none,Use 3 installments totaling ZAR 24435.84; the 90-day forecast maintains the minimum balance.
+request_98,8514.77,affordable_later,wait,none,2025-09-15,none,"Wait until 2025-09-15, when the full ZAR 27148 is forecast safe without reducing protected spending."
+request_99,18062,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,Pay ZAR 18062 today while maintaining the minimum balance of ZAR 49100.
+request_100,29616.75,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-15,none,Use 3 installments totaling ZAR 38598.57; the 90-day forecast maintains the minimum balance.
+request_101,143500,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,Pay INR 143500 today while maintaining the minimum balance of INR 187400.
+request_102,1637.24,not_affordable,not_recommended,none,,none,The full EUR 1716 cannot be completed safely within the deadline while maintaining EUR 900.
+request_103,22310.42,not_affordable,not_recommended,none,,none,The full INR 368300 cannot be completed safely within the deadline while maintaining INR 125500.
+request_104,17204,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,Pay ZAR 17204 today while maintaining the minimum balance of ZAR 24700.
+request_105,53500,affordable_now,full_payment,2026-06-08:53500,2026-06-08,none,Pay INR 53500 today while maintaining the minimum balance of INR 73900.
+request_106,539.84,affordable_later,wait,none,2025-01-15,none,"Wait until 2025-01-15, when the full EUR 2207.70 is forecast safe without reducing protected spending."
+request_107,0,not_affordable,not_recommended,none,,none,The full EUR 2534.40 cannot be completed safely within the deadline while maintaining EUR 1600.
+request_108,4835.23,not_affordable,not_recommended,none,2026-09-15,none,The full ZAR 55308 cannot be completed safely within the deadline while maintaining ZAR 24100.
+request_109,810.79,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-04-15,none,Use 3 installments totaling EUR 1937.94; the 90-day forecast maintains the minimum balance.
+request_110,22352,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,Use 3 installments totaling ZAR 23246.07; the 90-day forecast maintains the minimum balance.
+request_111,16625000,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,Pay IDR 16625000 today while maintaining the minimum balance of IDR 23022800.
+request_112,0,not_affordable,not_recommended,none,,none,The full EUR 271.70 cannot be completed safely within the deadline while maintaining EUR 500.
+request_113,36500,affordable_now,full_payment,2026-09-04:36500,2026-09-04,none,Pay INR 36500 today while maintaining the minimum balance of INR 82300.
+request_114,65300,affordable_now,full_payment,2026-01-04:65300,2026-01-04,none,Pay INR 65300 today while maintaining the minimum balance of INR 113400.
+request_115,16726.05,affordable_later,wait,none,2024-11-15,none,"Wait until 2024-11-15, when the full INR 80500 is forecast safe without reducing protected spending."
+request_116,27138.67,not_affordable,not_recommended,none,,none,The full INR 241200 cannot be completed safely within the deadline while maintaining INR 80300.
+request_117,880,affordable_now,full_payment,2026-07-05:880,2026-07-05,none,Pay EUR 880 today while maintaining the minimum balance of EUR 1000.
+request_118,704.11,affordable_with_plan,installments,2024-12-07:255.87|2025-01-07:255.87|2025-02-07:255.87,2024-12-15,none,Use 3 installments totaling EUR 767.61; the 90-day forecast maintains the minimum balance.
+request_119,0,not_affordable,not_recommended,none,,none,The full INR 203500 cannot be completed safely within the deadline while maintaining INR 151200.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,Pay IDR 7714000 today while maintaining the minimum balance of IDR 20050300.
+request_121,633.60,affordable_now,full_payment,2024-03-03:633.60,2024-03-03,none,Pay USD 633.60 today while maintaining the minimum balance of USD 800.
+request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,Use 3 installments totaling IDR 21380319.99; the 90-day forecast maintains the minimum balance.
+request_123,4076000,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,Pay IDR 4076000 today while maintaining the minimum balance of IDR 18091200.
+request_124,1497.09,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-07-15,none,Use 3 installments totaling EUR 3228.36; the 90-day forecast maintains the minimum balance.
+request_125,5942.89,not_affordable,not_recommended,none,2025-11-15,none,The full ZAR 6468 cannot be completed safely within the deadline while maintaining ZAR 11300.
+request_126,159600,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,Pay INR 159600 today while maintaining the minimum balance of INR 129700.
+request_127,0,not_affordable,not_recommended,none,,none,The full ZAR 23980 cannot be completed safely within the deadline while maintaining ZAR 41000.
+request_128,25168,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,Pay ZAR 25168 today while maintaining the minimum balance of ZAR 42600.
+request_129,158.36,not_affordable,not_recommended,none,,none,The full USD 2668.80 cannot be completed safely within the deadline while maintaining USD 800.
+request_130,491.85,affordable_later,wait,none,2025-02-15,none,"Wait until 2025-02-15, when the full USD 1978.80 is forecast safe without reducing protected spending."
+request_131,1267.58,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-05-23,none,Use 3 installments totaling USD 1929.42; the 90-day forecast maintains the minimum balance.
+request_132,353.85,affordable_later,wait,none,2026-01-15,none,"Wait until 2026-01-15, when the full USD 379.86 is forecast safe without reducing protected spending."
+request_133,5502674.82,not_affordable,not_recommended,none,,none,The full IDR 15770000 cannot be completed safely within the deadline while maintaining IDR 9986200.
+request_134,7343943.67,affordable_later,wait,none,2025-09-15,none,"Wait until 2025-09-15, when the full IDR 21831000 is forecast safe without reducing protected spending."
+request_135,304.80,affordable_now,full_payment,2026-07-06:304.80,2026-07-06,none,Pay USD 304.80 today while maintaining the minimum balance of USD 500.
+request_136,560.40,affordable_now,full_payment,2024-06-03:560.40,2024-06-03,none,Pay USD 560.40 today while maintaining the minimum balance of USD 1100.
+request_137,34493.62,affordable_later,wait,none,2025-12-15,none,"Wait until 2025-12-15, when the full INR 80100 is forecast safe without reducing protected spending."
+request_138,922.69,affordable_with_plan,partial_payment,2026-04-07:922.69|2026-04-15:334.25,2026-04-15,none,Pay EUR 922.69 today and the remaining EUR 334.25 on 2026-04-15.
+request_139,1574.82,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-09-15,none,Use 3 installments totaling USD 2408.64; the 90-day forecast maintains the minimum balance.
+request_140,0,not_affordable,not_recommended,none,,none,The full ZAR 62832 cannot be completed safely within the deadline while maintaining ZAR 21600.
+request_141,28901.88,not_affordable,not_recommended,none,,none,The full INR 171600 cannot be completed safely within the deadline while maintaining INR 67300.
+request_142,1263.60,affordable_now,full_payment,2024-12-05:1263.60,2024-12-05,none,Pay USD 1263.60 today while maintaining the minimum balance of USD 1700.
+request_143,3846.07,affordable_later,wait,none,2025-07-15,none,"Wait until 2025-07-15, when the full ZAR 12584 is forecast safe without reducing protected spending."
+request_144,0,not_affordable,not_recommended,none,,none,The full USD 233.34 cannot be completed safely within the deadline while maintaining USD 600.
+request_145,41307.93,affordable_with_plan,installments,2024-03-20:75365.33|2024-04-20:75365.33|2024-05-21:75365.33,2024-04-15,none,Use 3 installments totaling INR 226095.99; the 90-day forecast maintains the minimum balance.
+request_146,27847.22,not_affordable,not_recommended,none,,none,The full INR 449400 cannot be completed safely within the deadline while maintaining INR 108600.
+request_147,0,not_affordable,not_recommended,none,,none,The full EUR 1129.70 cannot be completed safely within the deadline while maintaining EUR 900.
+request_148,10425.12,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,2024-06-15,none,Use 3 installments totaling ZAR 23131.68; the 90-day forecast maintains the minimum balance.
+request_149,21925.87,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-12-15,none,Use 3 installments totaling ZAR 38118.09; the 90-day forecast maintains the minimum balance.
+request_150,403.90,affordable_with_plan,installments,2026-01-06:171.98|2026-02-05:171.98|2026-03-07:171.98,2026-01-15,none,Use 3 installments totaling EUR 515.94; the 90-day forecast maintains the minimum balance.
+request_151,26999000,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,Pay IDR 26999000 today while maintaining the minimum balance of IDR 31633600.
+request_152,11997.14,affordable_with_plan,installments,2025-02-12:4812.43|2025-03-12:4812.43|2025-04-09:4812.43,2025-02-15,none,Use 3 installments totaling ZAR 14437.29; the 90-day forecast maintains the minimum balance.
+request_153,188.60,not_affordable,not_recommended,none,,none,The full USD 2830.80 cannot be completed safely within the deadline while maintaining USD 1400.
+request_154,1625.80,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,Use 3 installments totaling EUR 1690.83; the 90-day forecast maintains the minimum balance.
+request_155,49614.72,not_affordable,not_recommended,none,,none,The full INR 112500 cannot be completed safely within the deadline while maintaining INR 56300.
+request_156,8516.91,affordable_later,wait,none,2026-05-15,none,"Wait until 2026-05-15, when the full ZAR 43076 is forecast safe without reducing protected spending."
+request_157,5770129.68,affordable_later,wait,none,2024-05-15,none,"Wait until 2024-05-15, when the full IDR 23503000 is forecast safe without reducing protected spending."
+request_158,242600,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,Use 3 installments totaling INR 252303.99; the 90-day forecast maintains the minimum balance.
+request_159,11829.87,not_affordable,not_recommended,none,,none,The full ZAR 13398 cannot be completed safely within the deadline while maintaining ZAR 8700.
+request_160,643.61,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-06-15,none,Use 3 installments totaling EUR 1296.15; the 90-day forecast maintains the minimum balance.
+request_161,0,not_affordable,not_recommended,none,,none,The full IDR 21204000 cannot be completed safely within the deadline while maintaining IDR 23010400.
+request_162,5346781.51,not_affordable,not_recommended,none,,none,The full IDR 83923000 cannot be completed safely within the deadline while maintaining IDR 24161100.
+request_163,13932538.59,affordable_with_plan,installments,2024-09-10:6692053.33|2024-10-11:6692053.33|2024-11-11:6692053.33,2024-09-15,none,Use 3 installments totaling IDR 20076159.99; the 90-day forecast maintains the minimum balance.
+request_164,27018000,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,2025-02-04,none,Use 3 installments totaling IDR 28098720; the 90-day forecast maintains the minimum balance.
+request_165,80600,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,Pay INR 80600 today while maintaining the minimum balance of INR 95000.
+request_166,2907.60,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,Use 3 installments totaling USD 3023.91; the 90-day forecast maintains the minimum balance.
+request_167,24000.75,not_affordable,not_recommended,none,2025-07-23,none,The full ZAR 43802 cannot be completed safely within the deadline while maintaining ZAR 31200.
+request_168,39124.51,affordable_with_plan,partial_payment,2026-01-07:39124.51|2026-01-15:10255.49,2026-01-15,none,Pay INR 39124.51 today and the remaining INR 10255.49 on 2026-01-15.
+request_169,41976,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,Pay ZAR 41976 today while maintaining the minimum balance of ZAR 18700.
+request_170,34422077.09,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,2025-08-15,none,Use 3 installments totaling IDR 38413440; the 90-day forecast maintains the minimum balance.
+request_171,96.61,not_affordable,not_recommended,none,,none,The full EUR 1878.80 cannot be completed safely within the deadline while maintaining EUR 500.
+request_172,9562.21,affordable_with_plan,partial_payment,2024-06-05:9562.21|2024-06-15:637.79,2024-06-15,none,Pay ZAR 9562.21 today and the remaining ZAR 637.79 on 2024-06-15.
+request_173,69995.62,affordable_with_plan,installments,2025-11-21:39173.33|2025-12-19:39173.33|2026-01-16:39173.33,2025-11-15,none,Use 3 installments totaling INR 117519.99; the 90-day forecast maintains the minimum balance.
+request_174,1146.20,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,Use 3 installments totaling EUR 1192.05; the 90-day forecast maintains the minimum balance.
+request_175,2346.30,affordable_now,full_payment,2024-09-06:2346.30,2024-09-06,none,Pay EUR 2346.30 today while maintaining the minimum balance of EUR 1700.
+request_176,285.52,not_affordable,not_recommended,none,,none,The full EUR 1239.70 cannot be completed safely within the deadline while maintaining EUR 600.
+request_177,1017.60,affordable_now,full_payment,2026-01-05:1017.60,2026-01-05,none,Pay USD 1017.60 today while maintaining the minimum balance of USD 1300.
+request_178,2938.10,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,Use 3 installments totaling EUR 3055.62; the 90-day forecast maintains the minimum balance.
+request_179,14489069.84,affordable_later,wait,none,2025-06-15,none,"Wait until 2025-06-15, when the full IDR 41648000 is forecast safe without reducing protected spending."
+request_180,0,not_affordable,not_recommended,none,,none,The full INR 66500 cannot be completed safely within the deadline while maintaining INR 37300.
+request_181,475.24,not_affordable,not_recommended,none,,none,The full USD 5059.20 cannot be completed safely within the deadline while maintaining USD 2000.
+request_182,65714,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,Pay ZAR 65714 today while maintaining the minimum balance of ZAR 31100.
+request_183,24912988.65,affordable_with_plan,installments,2026-04-10:9313546.67|2026-05-10:9313546.67|2026-06-09:9313546.67,2026-04-15,none,Use 3 installments totaling IDR 27940640.01; the 90-day forecast maintains the minimum balance.
+request_184,20164.36,not_affordable,not_recommended,none,,none,The full INR 251900 cannot be completed safely within the deadline while maintaining INR 110800.
+request_185,491.66,affordable_later,wait,none,2025-12-15,none,"Wait until 2025-12-15, when the full EUR 1257.30 is forecast safe without reducing protected spending."
+request_186,4038.44,affordable_later,wait,none,2026-03-15,none,"Wait until 2026-03-15, when the full ZAR 26554 is forecast safe without reducing protected spending."
+request_187,45576.87,affordable_later,wait,none,2024-10-15,none,"Wait until 2024-10-15, when the full INR 187500 is forecast safe without reducing protected spending."
+request_188,238.30,not_affordable,not_recommended,none,,none,The full EUR 2464 cannot be completed safely within the deadline while maintaining EUR 900.
+request_189,488.40,affordable_now,full_payment,2026-07-04:488.40,2026-07-04,none,Pay EUR 488.40 today while maintaining the minimum balance of EUR 400.
+request_190,643.02,affordable_later,wait,none,2025-02-15,none,"Wait until 2025-02-15, when the full EUR 2557.50 is forecast safe without reducing protected spending."
+request_191,664.40,affordable_now,full_payment,2025-05-03:664.40,2025-05-03,none,Pay EUR 664.40 today while maintaining the minimum balance of EUR 500.
+request_192,224.84,not_affordable,not_recommended,none,2026-06-15,none,The full USD 2046 cannot be completed safely within the deadline while maintaining USD 1000.
+request_193,164.39,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-04-15,none,Use 3 installments totaling EUR 1260.69; the 90-day forecast maintains the minimum balance.
+request_194,40073.13,affordable_later,wait,none,2025-10-23,none,"Wait until 2025-10-23, when the full INR 132800 is forecast safe without reducing protected spending."
+request_195,965.27,affordable_with_plan,installments,2026-01-09:405.74|2026-02-08:405.74|2026-03-10:405.74,2026-01-15,none,Use 3 installments totaling EUR 1217.22; the 90-day forecast maintains the minimum balance.
+request_196,762.30,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,none,Pay EUR 762.30 today while maintaining the minimum balance of EUR 500.
+request_197,0,not_affordable,not_recommended,none,,none,The full IDR 50939000 cannot be completed safely within the deadline while maintaining IDR 26245900.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,Pay INR 185800 today while maintaining the minimum balance of INR 124300.
+request_199,23674000,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,Use 3 installments totaling IDR 24620960.01; the 90-day forecast maintains the minimum balance.
+request_200,21717000,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,Pay IDR 21717000 today while maintaining the minimum balance of IDR 20114600.
+request_201,23997000,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,Pay IDR 23997000 today while maintaining the minimum balance of IDR 17304500.
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,Pay INR 123900 today while maintaining the minimum balance of INR 147800.
+request_203,1442.10,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,Use 3 installments totaling EUR 1499.79; the 90-day forecast maintains the minimum balance.
+request_204,0,not_affordable,not_recommended,none,,none,The full EUR 588.74 cannot be completed safely within the deadline while maintaining EUR 1300.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,Pay IDR 10621000 today while maintaining the minimum balance of IDR 13994300.
+request_206,1404.70,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,Use 3 installments totaling EUR 1460.88; the 90-day forecast maintains the minimum balance.
+request_207,6097.48,affordable_later,wait,none,2026-07-15,none,"Wait until 2026-07-15, when the full ZAR 11830 is forecast safe without reducing protected spending."
+request_208,4413000,affordable_now,full_payment,2024-06-07:4413000,2024-06-07,none,Pay IDR 4413000 today while maintaining the minimum balance of IDR 10470700.
+request_209,3016.76,not_affordable,not_recommended,none,,none,The full ZAR 56914 cannot be completed safely within the deadline while maintaining ZAR 18400.
+request_210,960.71,affordable_with_plan,partial_payment,2026-04-06:960.71|2026-04-15:399.31,2026-04-15,none,Pay USD 960.71 today and the remaining USD 399.31 on 2026-04-15.
+request_211,589.53,affordable_later,wait,none,2024-10-15,none,"Wait until 2024-10-15, when the full EUR 1788.60 is forecast safe without reducing protected spending."
+request_212,5134213.14,not_affordable,not_recommended,none,,none,The full IDR 71934000 cannot be completed safely within the deadline while maintaining IDR 29579800.
+request_213,3362.40,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,Use 3 installments totaling USD 3496.89; the 90-day forecast maintains the minimum balance.
+request_214,69750,affordable_with_plan,installments,2024-12-04:36270|2025-01-01:36270,2024-12-04,none,Use 2 installments totaling INR 72540; the 90-day forecast maintains the minimum balance.
+request_215,29986,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,Use 3 installments totaling ZAR 31185.45; the 90-day forecast maintains the minimum balance.
+request_216,722.52,affordable_later,wait,none,2026-09-15,none,"Wait until 2026-09-15, when the full USD 3332.40 is forecast safe without reducing protected spending."
+request_217,23403.48,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-04-15,none,Use 3 installments totaling ZAR 38667.21; the 90-day forecast maintains the minimum balance.
+request_218,27641181.80,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-09-15,none,Use 3 installments totaling IDR 63587679.99; the 90-day forecast maintains the minimum balance.
+request_219,0,not_affordable,not_recommended,none,,none,The full EUR 1673.10 cannot be completed safely within the deadline while maintaining EUR 1100.
+request_220,190.38,not_affordable,not_recommended,none,,none,The full EUR 3118.50 cannot be completed safely within the deadline while maintaining EUR 1100.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,Pay INR 109800 today while maintaining the minimum balance of INR 81500.
+request_222,34078,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,Pay ZAR 34078 today while maintaining the minimum balance of ZAR 27300.
+request_223,898.70,affordable_now,full_payment,2024-09-07:898.70,2024-09-07,none,Pay EUR 898.70 today while maintaining the minimum balance of EUR 800.
+request_224,10327000,affordable_with_plan,installments,2025-02-04:5370040|2025-03-04:5370040,2025-02-04,none,Use 2 installments totaling IDR 10740080; the 90-day forecast maintains the minimum balance.
+request_225,9792913.55,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-09-15,none,Use 3 installments totaling IDR 22941360; the 90-day forecast maintains the minimum balance.
+request_226,157000,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,Pay INR 157000 today while maintaining the minimum balance of INR 209400.
+request_227,12846.70,not_affordable,not_recommended,none,,none,The full INR 259700 cannot be completed safely within the deadline while maintaining INR 62900.
+request_228,0,not_affordable,not_recommended,none,,none,The full IDR 63327000 cannot be completed safely within the deadline while maintaining IDR 26191200.
+request_229,526.97,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-04-15,none,Use 3 installments totaling EUR 1587.87; the 90-day forecast maintains the minimum balance.
+request_230,3537.60,affordable_now,full_payment,2025-08-06:3537.60,2025-08-06,none,Pay EUR 3537.60 today while maintaining the minimum balance of EUR 2000.
+request_231,35706,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-01-03,none,Use 3 installments totaling ZAR 37134.24; the 90-day forecast maintains the minimum balance.
+request_232,0,not_affordable,not_recommended,none,,none,The full EUR 1970.10 cannot be completed safely within the deadline while maintaining EUR 2400.
+request_233,0,not_affordable,not_recommended,none,,none,The full IDR 6241000 cannot be completed safely within the deadline while maintaining IDR 10365700.
+request_234,341.35,affordable_later,wait,none,2026-08-15,none,"Wait until 2026-08-15, when the full EUR 1213.30 is forecast safe without reducing protected spending."
+request_235,967.20,affordable_now,full_payment,2024-09-06:967.20,2024-09-06,none,Pay USD 967.20 today while maintaining the minimum balance of USD 700.
+request_236,7356497.56,not_affordable,not_recommended,none,2025-04-15,none,The full IDR 52383000 cannot be completed safely within the deadline while maintaining IDR 16768600.
+request_237,23826000,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,Pay IDR 23826000 today while maintaining the minimum balance of IDR 22431500.
+request_238,663.60,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,Use 3 installments totaling USD 690.15; the 90-day forecast maintains the minimum balance.
+request_239,0,not_affordable,not_recommended,none,,none,The full USD 642 cannot be completed safely within the deadline while maintaining USD 600.
+request_240,0,not_affordable,not_recommended,none,,none,The full INR 101200 cannot be completed safely within the deadline while maintaining INR 52800.
+request_241,21052000,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,Use 3 installments totaling IDR 21894080.01; the 90-day forecast maintains the minimum balance.
+request_242,0,not_affordable,not_recommended,none,,none,The full EUR 1966.80 cannot be completed safely within the deadline while maintaining EUR 600.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,Pay ZAR 17468 today while maintaining the minimum balance of ZAR 19900.
+request_244,11476.56,not_affordable,not_recommended,none,,none,The full ZAR 49918 cannot be completed safely within the deadline while maintaining ZAR 45900.
+request_245,35883.07,affordable_later,wait,none,2025-12-15,none,"Wait until 2025-12-15, when the full INR 128500 is forecast safe without reducing protected spending."
+request_246,64086,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,Use 3 installments totaling ZAR 66649.44; the 90-day forecast maintains the minimum balance.
+request_247,1059.30,affordable_now,full_payment,2024-09-05:1059.30,2024-09-05,none,Pay EUR 1059.30 today while maintaining the minimum balance of EUR 1300.
+request_248,1025.93,affordable_with_plan,partial_payment,2025-02-07:1025.93|2025-04-15:939.67,2025-04-15,none,Pay USD 1025.93 today and the remaining USD 939.67 on 2025-04-15.
+request_249,197.85,affordable_later,wait,none,2026-02-15,none,"Wait until 2026-02-15, when the full USD 643.20 is forecast safe without reducing protected spending."
+request_250,17762.28,not_affordable,not_recommended,none,,none,The full ZAR 124278 cannot be completed safely within the deadline while maintaining ZAR 35300.
+request_251,1513.60,not_affordable,not_recommended,none,2025-05-03,none,The full EUR 1513.60 cannot be completed safely within the deadline while maintaining EUR 1300.
+request_252,6269654.41,affordable_later,wait,none,2026-08-15,none,"Wait until 2026-08-15, when the full IDR 28082000 is forecast safe without reducing protected spending."
+request_253,1959.69,affordable_with_plan,installments,2024-03-21:984.60|2024-04-21:984.60|2024-05-22:984.60,2024-04-15,none,Use 3 installments totaling EUR 2953.80; the 90-day forecast maintains the minimum balance.
+request_254,824.45,affordable_later,wait,none,2025-09-15,none,"Wait until 2025-09-15, when the full USD 3535.20 is forecast safe without reducing protected spending."
+request_255,3345000,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,Pay IDR 3345000 today while maintaining the minimum balance of IDR 9813900.
+request_256,0,not_affordable,not_recommended,none,,none,The full INR 218700 cannot be completed safely within the deadline while maintaining INR 168600.
+request_257,512.48,affordable_later,wait,none,2025-12-15,none,"Wait until 2025-12-15, when the full USD 1352.40 is forecast safe without reducing protected spending."
+request_258,1113.60,affordable_now,full_payment,2026-01-07:1113.60,2026-01-07,none,Pay USD 1113.60 today while maintaining the minimum balance of USD 500.
+request_259,253.91,affordable_later,wait,none,2024-10-15,none,"Wait until 2024-10-15, when the full EUR 935 is forecast safe without reducing protected spending."
+request_260,8790812.82,not_affordable,not_recommended,none,,none,The full IDR 52079000 cannot be completed safely within the deadline while maintaining IDR 20727700.
+request_261,1830.40,affordable_now,full_payment,2026-07-03:1830.40,2026-07-03,none,Pay EUR 1830.40 today while maintaining the minimum balance of EUR 1500.
+request_262,9236000,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,Pay IDR 9236000 today while maintaining the minimum balance of IDR 31018500.
+request_263,10122.56,not_affordable,not_recommended,none,,none,The full ZAR 51546 cannot be completed safely within the deadline while maintaining ZAR 24100.
+request_264,31637.49,affordable_later,wait,none,2026-05-15,none,"Wait until 2026-05-15, when the full INR 111300 is forecast safe without reducing protected spending."
+request_265,45970,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,Pay INR 45970 today while maintaining the minimum balance of INR 189700.
+request_266,799.66,affordable_with_plan,installments,2025-08-03:324.13|2025-08-31:324.13|2025-09-28:324.13,2025-09-15,none,Use 3 installments totaling EUR 972.39; the 90-day forecast maintains the minimum balance.
+request_267,1804.13,affordable_with_plan,installments,2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33,2026-01-15,none,Use 3 installments totaling EUR 2001.99; the 90-day forecast maintains the minimum balance.
+request_268,1134.52,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-15,none,Use 3 installments totaling EUR 2523.66; the 90-day forecast maintains the minimum balance.
+request_269,0,not_affordable,not_recommended,none,,none,The full ZAR 15490 cannot be completed safely within the deadline while maintaining ZAR 23100.
+request_270,245.92,not_affordable,not_recommended,none,2026-09-15,none,The full USD 3028.80 cannot be completed safely within the deadline while maintaining USD 1400.
+request_271,26651.93,affordable_later,wait,none,2024-10-15,none,"Wait until 2024-10-15, when the full INR 91300 is forecast safe without reducing protected spending."
+request_272,6102616.21,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-02-15,none,Use 3 installments totaling IDR 14128400.01; the 90-day forecast maintains the minimum balance.
+request_273,10764260.96,affordable_with_plan,partial_payment,2026-04-07:10764260.96|2026-04-15:5096739.04,2026-04-15,none,Pay IDR 10764260.96 today and the remaining IDR 5096739.04 on 2026-04-15.
+request_274,2456.82,affordable_with_plan,installments,2024-12-04:940.75|2025-01-04:940.75|2025-02-04:940.75,2024-12-15,none,Use 3 installments totaling EUR 2822.25; the 90-day forecast maintains the minimum balance.
+request_275,15884000,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,Pay IDR 15884000 today while maintaining the minimum balance of IDR 12760100.

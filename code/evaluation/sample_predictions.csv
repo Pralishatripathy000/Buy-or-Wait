@@ -1,0 +1,26 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_01,25256,affordable_now,full_payment,2024-03-03:25256,2024-03-03,none,"Full payment: 1 payment(s), ZAR 25256 total; forecast minimum 23067.28 versus required 18000."
+request_02,18114223.74,affordable_with_plan,installments,2025-08-08:15952906.67|2025-09-07:15952906.67|2025-10-07:15952906.67,2025-09-15,none,"Installments: 3 payment(s), IDR 47858720.01 total; forecast minimum 31319717.07 versus required 29158400."
+request_03,979179.22,affordable_later,wait,2019-11-15:5491000,2019-11-15,none,"Wait: 1 payment(s), IDR 5491000 total; forecast minimum 3647879.22 versus required 2668700."
+request_04,10677148.75,affordable_later,wait,2024-06-15:12693000,2024-06-15,none,"Wait: 1 payment(s), IDR 12693000 total; forecast minimum 34280853.77 versus required 30686600."
+request_05,0,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: ZAR 0; protected minimum: 13100.
+request_06,517.20,not_affordable,not_recommended,none,2026-01-15,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: EUR 517.20; protected minimum: 800.
+request_07,86703.56,affordable_with_plan,installments,2024-09-12:68432|2024-10-10:68432|2024-11-07:68432,2024-10-23,none,"Installments: 3 payment(s), INR 205296 total; forecast minimum 94976.03 versus required 93000."
+request_08,293.47,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: EUR 293.47; protected minimum: 800.
+request_09,17.79,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: EUR 17.79; protected minimum: 600.
+request_10,0,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: INR 0; protected minimum: 225400.
+request_11,12513759.60,affordable_later,wait,2025-05-15:13110000,2025-05-15,none,"Wait: 1 payment(s), IDR 13110000 total; forecast minimum 46654359.60 versus required 34140600."
+request_12,62426.13,affordable_with_plan,installments,2026-04-19:22590.19|2026-05-20:22590.19|2026-06-20:22590.19,,reduce_to:event_1017:511.28|reduce_to:event_1054:1072.50,"Installments: 3 payment(s), ZAR 67770.57 total; forecast minimum 43688.86 versus required 43200. Requires reduce_to:event_1017:511.28|reduce_to:event_1054:1072.50."
+request_13,573.28,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: EUR 573.28; protected minimum: 1300.
+request_14,627.27,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: EUR 627.27; protected minimum: 2200.
+request_15,9.49,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: EUR 9.49; protected minimum: 1200.
+request_16,122500,affordable_now,full_payment,2023-08-12:122500,2023-08-12,none,"Full payment: 1 payment(s), INR 122500 total; forecast minimum 139423.40 versus required 122400."
+request_17,241797.73,affordable_with_plan,installments,2026-03-01:95194.67|2026-03-31:95194.67|2026-04-30:95194.67,2026-04-15,none,"Installments: 3 payment(s), INR 285584.01 total; forecast minimum 178662.62 versus required 166100."
+request_18,547.30,affordable_later,wait,2026-09-15:3246.10,2026-09-15,none,"Wait: 1 payment(s), EUR 3246.10 total; forecast minimum 1947.30 versus required 1400."
+request_19,25803.33,affordable_with_plan,partial_payment,2024-09-04:25803.33|2024-09-15:13856.67,2024-09-15,none,"Partial payment: 2 payment(s), INR 39660 total; forecast minimum 92800 versus required 92800."
+request_20,8533.15,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: INR 8533.15; protected minimum: 64500.
+request_21,1574.40,affordable_now,full_payment,2026-04-03:1574.40,2026-04-03,none,"Full payment: 1 payment(s), USD 1574.40 total; forecast minimum 1905.28 versus required 1800."
+request_22,463.71,affordable_with_plan,installments,2024-12-08:253.59|2025-01-05:253.59|2025-02-02:253.59,2025-01-15,none,"Installments: 3 payment(s), EUR 760.77 total; forecast minimum 508.09 versus required 500."
+request_23,8398.42,affordable_later,wait,2025-07-15:38016,2025-07-15,none,"Wait: 1 payment(s), ZAR 38016 total; forecast minimum 28318.93 versus required 27000."
+request_24,13633.18,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: INR 13633.18; protected minimum: 51000.
+request_25,145670.30,not_affordable,not_recommended,none,,none,No eligible payment plan passes the deadline and 90-day safety check. Safe today: IDR 145670.30; protected minimum: 23379100.

@@ -1,0 +1,35 @@
+{
+  "amount_safe_to_pay": {
+    "correct": 2,
+    "total": 25,
+    "accuracy": 0.08,
+    "mean_absolute_error_mixed_currencies": 183019.28,
+    "mean_error_as_fraction_of_requested_amount": 0.07085560148463263,
+    "within_5_percent_of_requested_amount": 20
+  },
+  "affordability_status": {
+    "correct": 19,
+    "total": 25,
+    "accuracy": 0.76
+  },
+  "recommended_payment_method": {
+    "correct": 20,
+    "total": 25,
+    "accuracy": 0.8
+  },
+  "payment_plan": {
+    "correct": 19,
+    "total": 25,
+    "accuracy": 0.76
+  },
+  "earliest_date_for_full_payment": {
+    "correct": 18,
+    "total": 25,
+    "accuracy": 0.72
+  },
+  "spending_changes_needed": {
+    "correct": 21,
+    "total": 25,
+    "accuracy": 0.84
+  }
+}
